@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="44c9f371-480b-4406-b94a-364e2cb33d3b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Concurrency.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java中的锁.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ArrayBlockingQueue/ArrayBlockingQueue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ArrayBlockingQueue/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Atomic/AtomicArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Atomic/AtomicEvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Atomic/AtomicIntegerTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Atomic/AtomicIntegerTest1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/AtomictyTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/BasicThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/CachedThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/CallableDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/CaptureUncaughtException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ConcurrentLinkedQueue/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Condition/BoundedQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Condition/Condition.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Condition/ConditionUseCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Count/OrnamentalGarden.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/CountDownLatch/CountDownLatchDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/CountDownLatch/CountDownLatchTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/CriticalSection/SyncObject.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/CyclicBarrier/CyclicBarrierTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/DaemonFromFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/DaemonThreadFactory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/DelayQueue/DelayQueueDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ExceptionThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Joining.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/LiftOff.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/LinkedBlockingQueue/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/LinkedBlockingQueue/LinkedBlockingQueue.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/MainThread.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/PipedReader/PipedIO/PipedIO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/PriorityBlockingQueue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ReadWrite/Cache.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ReadWrite/ReentrantReadWriteLock.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Semaphore/Fat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Semaphore/Pool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Semaphore/SemaphareTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Semaphore/SemaphoreDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/Semaphore/a.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/SimpleDaemons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/SimplePriorities.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/SingleThreadExecutor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/SleepingTask.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ThreadLocal/ThreadLocalVariableHolder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ThreadPool/Pool.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ThreadPool/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ThreadPool/ThreadPoolDemo/ThreadPool.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/ThreadPool/ThreadPoolDemo/ThreadPoolDemo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/WaitAndNotify/Demo1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/WaitAndNotify/WaitNotify.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/WaxOmatic/WaxOmatic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/concurrentHashMap/Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/concurrentHashMap/currentHashMap.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/synchtonized/EvenChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/synchtonized/EvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/synchtonized/IntGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/synchtonized/SerialNumberChecker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/synchtonized/SerialNumberGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/synchtonized/SynchronizedEvenGenerator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/concurrency/资料" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发的底层实现.MD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/并发编程基础.MD" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$USER_HOME$/maven/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$USER_HOME$/maven/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="jdkForImporter" value="1.8" />
+        <option name="vmOptionsForImporter" value="-Xmx768m" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1cXBRPuqmZw1qZwoDbRfQExbkQS" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="44c9f371-480b-4406-b94a-364e2cb33d3b" name="Default Changelist" comment="" />
+      <created>1590665048128</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1590665048128</updated>
+      <workItem from="1590665049594" duration="9276000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="310" y="190" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1590677121799">
+      <screen x="0" y="23" width="1280" height="681" />
+    </state>
+    <state x="310" y="190" key="#com.intellij.fileTypes.FileTypeChooser/0.23.1280.681@0.23.1280.681" timestamp="1590677121799" />
+  </component>
+</project>
