@@ -1,10 +1,7 @@
 package concurrency.CountDownLatch;
 
 import java.util.Random;
-import java.util.concurrent.CountDownLatch;
-import java.util.concurrent.ExecutorService;
-import java.util.concurrent.Executors;
-import java.util.concurrent.TimeUnit;
+import java.util.concurrent.*;
 
 class TaskPortion implements Runnable{
     private static int counter=0;
